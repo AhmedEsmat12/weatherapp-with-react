@@ -5,9 +5,45 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #5abfad42;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.App
+{
+  background: #8c9a8e;
+    width: 200px;
+    height: 347px;
+    margin: 100px auto;
+    padding: 40px;
+}
+input{
+  background: bottom;
+  border: none;
+    border-bottom:1px solid #e2cbcb;
+    font-size: 17px;
+    margin-bottom: 20px
+}
+input:hover
+{
+  background: #bfbc49
+}
+button
+{
+  color: white;
+  background: black;
+  border: none;
+  padding: 7px;
+  text-transform: capitalize;
+  width: 112px;
+}
+p{
+  color: white;
+  border-bottom:1px solid #e2cbcb;
+
+}
+
+
